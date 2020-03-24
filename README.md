@@ -8,4 +8,4 @@ graph.py --> Generate the graph
 main.py --> Get the users and friends from twitter
 
 
-![network_graph](/networkGraph.ong)
+![network_graph](/networkGraph.png)
