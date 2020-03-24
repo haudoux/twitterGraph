@@ -5,6 +5,8 @@ I used python 3.7 (64 bit), networkx, plotly, pymysql, twython
 
 
 graph.py --> Generate the graph
+
+
 main.py --> Get the users and friends from twitter
 
 
